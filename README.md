@@ -65,8 +65,8 @@ Server will be running on: http://localhost:3000
 
 ## 📂 API Endpoints
 
-**- GET /api/files**
-**- POST /api/upload**
+- GET /api/files
+- POST /api/upload**
 
 ## 🛡️ CORS & Security
 
